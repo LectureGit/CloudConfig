@@ -323,7 +323,7 @@ public class JwtAuthenticationController {
 
 
 
-2. **Use the token generated in above step 1 for accessing the endpoint: (localhost:8080/welcome/employees, Method Type : GET)**
+2. **Use the token generated in above step 1 for accessing the endpoint: (localhost:8080/emp, Method Type : GET)**
 * Use the token in following manner and hit the endpoint
 ![image](https://github.com/user-attachments/assets/afd9d742-5116-4d99-8885-c1b99e8031c4)
 
